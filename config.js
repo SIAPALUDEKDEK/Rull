@@ -4,16 +4,16 @@ global.mods = ['0']
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Nama Owner'
-global.numberowner = '6285746030186' // Ganti Jadi Nomor mu
+global.nameowner = 'Alok'
+global.numberowner = '6289653436302' // Ganti Jadi Nomor mu
 global.instagram = '-' // Ig Kamu
-global.github = 'https://github.com/ZennRull' // Github kamu (biarin aja kalau gaada)
+global.github = 'https://github.com/SIAPALUDEKDEK' // Github kamu (biarin aja kalau gaada)
 global.dana = '-' //Dana pulsa gopay
 global.pulsa = '-'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Nama Bot' // Nama Bot
+global.namebot = 'KoboBotz🇲🇰' // Nama Bot
 global.gc = 'https://t.me/pixelbotwhatsapp'
 global.web = 'https://t.me/pixelbotwhatsapp' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 15K\n2 Minggu 10K\n1 Minggu 5K'
